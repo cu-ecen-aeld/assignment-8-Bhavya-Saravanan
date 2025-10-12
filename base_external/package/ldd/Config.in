@@ -1,0 +1,6 @@
+config BR2_PACKAGE_LDD
+    bool "ldd (ldd3 kernel modules)"
+    help
+      Builds and installs the ldd3 example kernel modules:
+      - misc-modules
+      - scull-modules
