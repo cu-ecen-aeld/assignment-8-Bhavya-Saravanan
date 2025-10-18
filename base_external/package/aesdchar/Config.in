@@ -1,0 +1,5 @@
+config BR2_PACKAGE_AESDCHAR
+    bool "aesdchar module"
+    help
+      Including the AESD character device to the kernel.
+      
