@@ -5,7 +5,7 @@
 AESDCHAR_SITE  = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-Bhavya-Saravanan.git'
 AESDCHAR_SITE_METHOD = git
 AESDCHAR_GIT_SUBMODULES  = YES
-AESDCHAR_VERSION  = 'c83b78a19bfac79126cbc4493fd772438afe0838'
+AESDCHAR_VERSION  = '54c3eeda4aea2f3b11d91606eb7ef7db14521448'
 
 AESDCHAR_MODULE_SUBDIRS = aesd-char-driver
 
